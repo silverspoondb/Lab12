@@ -11,7 +11,6 @@ import BHeader from './components/BHeader.vue'
 
   <main>
     <!-- <LibraryRegistrationForm /> -->
-    <!-- <JSONLab /> -->
     <router-view> </router-view>
   </main>
 </template>
